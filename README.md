@@ -49,7 +49,7 @@ int main(void)
 ```
 ## OUTPUT
 
-![alt text](01.png)
+![image](https://github.com/tamizhselvan23013460/Linux-Process-API-fork-wait-exec/assets/150231370/883bea9d-6127-47ce-89ef-69f2e30af9fb)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 
@@ -77,7 +77,7 @@ exit(0);}
 
 ## OUTPUT
 
-![alt text](02.png)
+![image](https://github.com/tamizhselvan23013460/Linux-Process-API-fork-wait-exec/assets/150231370/eb74d3b1-c3d4-470c-9bd7-81f6e9c7ad88)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 
@@ -113,7 +113,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-![alt text](0003.png)
+![image](https://github.com/tamizhselvan23013460/Linux-Process-API-fork-wait-exec/assets/150231370/26859b03-0e4d-410b-a065-2f477c772a92)
 
 # RESULT:
 The programs are executed successfully.
